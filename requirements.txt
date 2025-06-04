@@ -1,1 +1,1 @@
-llama_cpp
+llama_cpp==0.3.7
